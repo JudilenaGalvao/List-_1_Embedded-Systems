@@ -5,8 +5,8 @@
 
 using namespace std;
 
-#define n 1000000
-#define T 8 
+#define n 100000
+#define T 16 
 
 //Replit 8 cores
 pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER;
